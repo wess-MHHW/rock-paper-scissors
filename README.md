@@ -30,6 +30,7 @@ Users should be able to:
 ### Screenshot
 
 Desktop:
+
 ORIGINAL GAME : ROCK PAPER SCISSORS
 | ![1](./screenshots/rock-paper-scissors-desktop-1.png) | ![2](./screenshots/rock-paper-scissors-desktop-2.png) |
 | :-----------------------------------------------------: | :-----------------------------------------------------: |
